@@ -12,11 +12,11 @@ __1. Execute a python file__
 To see available option:
 
 ```bash
-$ python main.py --help
+python main.py --help
 ```
 
 Execute:
 
 ```bash
-$ python main.py
+python main.py
 ```
